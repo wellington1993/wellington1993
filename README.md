@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Social Networks
+
+Twitter: https://twitter.com/Wellington_Tds
+Facebook: https://www.facebook.com/wellington1993 (Shame)
+
+### Working On
+
+I’m currently working on Hotsoft Informatica
+https://www.hotsoft.com.br/
+
 <!--
 **wellington1993/wellington1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
