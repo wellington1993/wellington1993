@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellington1993&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotsoft-desenv2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=wellington1993&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hotsoft-desenv2&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi there 👋
 
 Pronouns: He/Him
