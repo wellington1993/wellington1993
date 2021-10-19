@@ -7,6 +7,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=wellington1993&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hotsoft-desenv2&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+![wellington1993's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellington1993&layout=compact&theme=radical&hide_border=true&custom_title=Other%20Stats)
+
+![hotsoft-desenv2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hotsoft-desenv2&layout=compact&theme=radical&hide_border=true&custom_title=Other%20Stats)
+
 ### Hi there 👋
 
 Pronouns: He/Him
@@ -15,13 +19,12 @@ Pronouns: He/Him
 
 Sometimes "wellington1993", sometimes "Wellington_tds":
 - Twitter: https://twitter.com/Wellington_Tds
-- Facebook: https://www.facebook.com/wellington1993 (Shame)
+- Facebook: https://www.facebook.com/wellington1993
 
 ## Working On
 
 I’m currently working on Hotsoft Informatica
 https://www.hotsoft.com.br/
-
 
 
 <!--
