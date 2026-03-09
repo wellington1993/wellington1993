@@ -70,14 +70,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wellington1993&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 <p align="center">
   <i>"Open source is not just about code — it's about community."</i>
 </p>
