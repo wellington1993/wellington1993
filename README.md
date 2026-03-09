@@ -22,7 +22,6 @@
 - 🖥️ Desenvolvedor Web e Analista de Sistemas
 - 🐧 Entusiasta de Linux e Unix
 - ❤️ Apaixonado por Open Source
-- 💼 109 repositórios públicos no GitHub
 - 🌎 Localizado em Maringá, PR, Brasil
 
 ---
@@ -66,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wellington1993&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=wellington1993&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
